@@ -4,9 +4,7 @@ An old high school project following a tutorial online
 
 
 
-Credit:
-
-freeCodeAcademy.org
+Credit: freeCodeAcademy.org
 
 "Code Asteroids in JavaScript (1979 Atari game) - tutorial"
 
